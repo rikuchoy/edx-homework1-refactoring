@@ -6,7 +6,7 @@
 
 
 
-## Acceptance Criteria
+## Acceptance Criteria:
 
 * It's done when I view the source code, the Html element follow semantic conventions
 * It's done when the structure of the HTML elements follow a logical structure independent of styling and positioning
