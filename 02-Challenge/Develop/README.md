@@ -25,4 +25,4 @@ The following image demonstrates the web application's appearance:
 ---
 
 ## Link to deployed application:
-[Access the webpage here](hfile:///C:/Users/rikuc/week-1-challenge/edx-homework1-refactoring/02-Challenge/Develop/index.html).
+[Access the webpage here](http://127.0.0.1:3000/Develop/index.html).
